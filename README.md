@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fernando!
+
+My name is Fernando De La Torre. I'm passionate about creating and growing within the tech space and a passionate software engineer who will do whatever it takes to find the answers to your needs.
 
 <!--
 **FernandoDLT/FernandoDLT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
