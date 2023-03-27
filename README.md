@@ -1,10 +1,10 @@
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="GitHub Profile Banner">
+
 <h1 align="center">Hi 👋, I'm Fernando</h1>
 <h3 align="center">I am a passionate full-stack developer from the U.S.</h3>
-<img align="center" alt="Coding" width="100%" src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif">
+<img align="right" alt="Coding" width="300px" src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif">
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=fernandodlt&label=Profile%20views&color=0e75b6&style=flat" alt="fernandodlt" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fernandodlt" alt="fernandodlt" /></a> </p>
 
 - 🔭 I’m currently working on **Improving my skills**
 
